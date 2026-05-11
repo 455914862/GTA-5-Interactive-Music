@@ -1,0 +1,2706 @@
+<Item type="StemMix" ntOffset="185528">
+  <Name>sm_1</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185533">
+  <Name>sm_1_4_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185542">
+  <Name>sm_1_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185549">
+  <Name>sm_3_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185558">
+  <Name>sm_4_5_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185569">
+  <Name>sm_4_5_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185578">
+  <Name>sm_4_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185587">
+  <Name>sm_4_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185594">
+  <Name>sm_5</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185599">
+  <Name>sm_5_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185606">
+  <Name>sm_5_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185615">
+  <Name>sm_5_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185624">
+  <Name>sm_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185631">
+  <Name>sm_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185638">
+  <Name>sm_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185645">
+  <Name>sm_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185650">
+  <Name>sm_silence</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185661">
+  <Name>sm_1_3</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185668">
+  <Name>sm_1_3_4</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185677">
+  <Name>sm_1_4</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185684">
+  <Name>sm_1_4_5</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185693">
+  <Name>sm_1_4_5_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185704">
+  <Name>sm_1_4_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185713">
+  <Name>sm_1_5_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185722">
+  <Name>sm_1_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185729">
+  <Name>sm_2</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185734">
+  <Name>sm_3</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185739">
+  <Name>sm_1_3_5_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185750">
+  <Name>sm_4</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185755">
+  <Name>sm_4_5_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185768">
+  <Name>sm_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185773">
+  <Name>sm_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185778">
+  <Name>sm_3_5_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185787">
+  <Name>sm_2_3</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185794">
+  <Name>sm_2_3_4</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185803">
+  <Name>sm_2_3_4_5</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185814">
+  <Name>sm_2_3_5</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185823">
+  <Name>sm_2_3_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185832">
+  <Name>sm_2_3_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185843">
+  <Name>sm_2_3_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185852">
+  <Name>sm_2_4</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185859">
+  <Name>sm_2_4_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185868">
+  <Name>sm_2_5_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185877">
+  <Name>sm_3_4</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185884">
+  <Name>sm_3_4_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185893">
+  <Name>sm_3_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185900">
+  <Name>sm_3_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185909">
+  <Name>sm_4_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185916">
+  <Name>sm_4_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185925">
+  <Name>sm_1_2</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185932">
+  <Name>sm_2_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185939">
+  <Name>sm_3_4_5_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185950">
+  <Name>sm_1_2_3</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185959">
+  <Name>sm_3_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185966">
+  <Name>sm_3_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="185973">
+  <Name>sm_2_3_5_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185986">
+  <Name>sm_1_2_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="185995">
+  <Name>sm_3_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186004">
+  <Name>sm_3_5_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186015">
+  <Name>sm_3_5_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186026">
+  <Name>sm_1_3_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186035">
+  <Name>sm_6_1</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186042">
+  <Name>sm_3_5_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186053">
+  <Name>sm_8_1</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186060">
+  <Name>sm_2_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186067">
+  <Name>sm_3_5</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186074">
+  <Name>sm_5_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186081">
+  <Name>sm_3_4_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186092">
+  <Name>sm_3_5_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186105">
+  <Name>sm_1_4_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186116">
+  <Name>sm_3_4_5_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186129">
+  <Name>sm_3_5_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186138">
+  <Name>sm_3_4_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186149">
+  <Name>sm_5_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186156">
+  <Name>sm_1_2_3_5</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186167">
+  <Name>sm_1_5</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186174">
+  <Name>sm_1_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186183">
+  <Name>sm_3_4_5_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186194">
+  <Name>sm_1_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186203">
+  <Name>sm_4_5_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186212">
+  <Name>sm_1_5_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186223">
+  <Name>sm_1_5_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186232">
+  <Name>sm_5_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186243">
+  <Name>sm_4_5_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186252">
+  <Name>sm_1_2_4_5_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186267">
+  <Name>sm_1_2_4_5</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186278">
+  <Name>sm_4_5</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186285">
+  <Name>sm_3_5_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186294">
+  <Name>sm_3_4_5_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186309">
+  <Name>sm_1_2_4</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186318">
+  <Name>sm_3_4_5_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186331">
+  <Name>sm_2_3_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186340">
+  <Name>sm_3_4_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186349">
+  <Name>sm_3_4_5</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186358">
+  <Name>sm_4_5_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186369">
+  <Name>sm_1_2_5_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186380">
+  <Name>sm_1_2_3_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186391">
+  <Name>sm_1_2_3_5_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186404">
+  <Name>sm_2_4_5</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186413">
+  <Name>sm_2_4_5_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186424">
+  <Name>sm_1_2_3_5_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186439">
+  <Name>sm_1_4_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186450">
+  <Name>sm_1_5_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186461">
+  <Name>sm_4_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186472">
+  <Name>sm_1_4_5_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186483">
+  <Name>sm_5_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186492">
+  <Name>sm_4_5_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186503">
+  <Name>sm_1_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186510">
+  <Name>sm_2_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186519">
+  <Name>sm_1_2_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186530">
+  <Name>sm_1_2_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186539">
+  <Name>sm_2_3_4_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186550">
+  <Name>sm_2_3_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186561">
+  <Name>sm_2_4_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186572">
+  <Name>sm_2_5</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186579">
+  <Name>sm_2_3_5_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186594">
+  <Name>sm_2_3_5_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186607">
+  <Name>sm_2_5_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186618">
+  <Name>sm_2_4_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186627">
+  <Name>sm_2_4_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186638">
+  <Name>sm_2_4_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186647">
+  <Name>sm_4_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186654">
+  <Name>sm_1_2_3_4_5_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186673">
+  <Name>sm_1_2_4_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186684">
+  <Name>sm_1_2_4_5_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186697">
+  <Name>sm_1_2_4_5_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186710">
+  <Name>sm_2_4_5_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186723">
+  <Name>sm_2_3_5_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186736">
+  <Name>sm_3_4_5_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186747">
+  <Name>sm_3_4_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186758">
+  <Name>sm_2_5_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186769">
+  <Name>sm_4_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186778">
+  <Name>sm_1_2_4_5_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186795">
+  <Name>sm_2_5_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186804">
+  <Name>sm_2_3_4_5_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186817">
+  <Name>sm_2_3_4_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186830">
+  <Name>sm_2_4_5_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186841">
+  <Name>sm_1_2_4_5_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186854">
+  <Name>sm_2_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186861">
+  <Name>sm_2_4_5_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186876">
+  <Name>sm_2_4_5_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186889">
+  <Name>sm_2_4_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186900">
+  <Name>sm_3_4_5_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186913">
+  <Name>sm_2_4_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186926">
+  <Name>sm_1_2_5_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186937">
+  <Name>sm_3_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186948">
+  <Name>sm_1_3_4_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186959">
+  <Name>sm_2_3_4_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186970">
+  <Name>sm_1_2_4_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186981">
+  <Name>sm_2_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="186990">
+  <Name>sm_2_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="186999">
+  <Name>sm_2_3_4_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187010">
+  <Name>sm_1_2_4_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187023">
+  <Name>sm_1_4_5_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187036">
+  <Name>sm_2_3_4_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187049">
+  <Name>sm_1_2_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187060">
+  <Name>sm_2_3_4_5_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187073">
+  <Name>sm_1_2_4_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187086">
+  <Name>sm_1_4_5_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187101">
+  <Name>sm_2_3_5_6</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187112">
+  <Name>sm_2_5_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187123">
+  <Name>sm_1_4_5_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187134">
+  <Name>sm_1_3_4_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187147">
+  <Name>sm_1_5_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187156">
+  <Name>sm_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187165">
+  <Name>sm_1_2_4_5_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187180">
+  <Name>sm_1_2_5_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187193">
+  <Name>sm_2_3_4_5_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187210">
+  <Name>sm_2_3_4_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187225">
+  <Name>sm_1_4_5_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187238">
+  <Name>sm_2_3_4_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187251">
+  <Name>sm_2_5_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187260">
+  <Name>sm_2_4_5_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187271">
+  <Name>sm_1_5_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187282">
+  <Name>sm_3_4_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187291">
+  <Name>sm_1_2_3_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187302">
+  <Name>sm_1_3_4_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187313">
+  <Name>sm_1_3_4_5_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187326">
+  <Name>sm_1_3_5_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187337">
+  <Name>sm_1_2_3_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187348">
+  <Name>sm_1_3_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187357">
+  <Name>sm_1_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187366">
+  <Name>sm_2_5_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187379">
+  <Name>sm_1_3_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187390">
+  <Name>sm_2_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187401">
+  <Name>sm_2_3_5_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187412">
+  <Name>sm_1_2_5</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187421">
+  <Name>sm_2_3_4_5_6_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187436">
+  <Name>sm_1_3_4_5</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187447">
+  <Name>sm_1_2_3_4_5_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187462">
+  <Name>sm_2_3_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187475">
+  <Name>sm_2_4_5_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187488">
+  <Name>sm_1_2_3_4_5_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187503">
+  <Name>sm_2_3_4_5_7</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187516">
+  <Name>sm_1_2_4_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187529">
+  <Name>sm_1_2_3_4_5</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187542">
+  <Name>sm_1_2_3_4_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187555">
+  <Name>sm_1_4_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187566">
+  <Name>sm_1_3_5_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187579">
+  <Name>sm_1_3_4_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187592">
+  <Name>sm_1_2_3_4_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187605">
+  <Name>sm_1_3_4_5_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187618">
+  <Name>sm_1_2_3_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187631">
+  <Name>sm_1_4_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187640">
+  <Name>sm_1_3_4_5_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187655">
+  <Name>sm_1_3_5</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187664">
+  <Name>sm_1_2_3_5_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187679">
+  <Name>sm_1_2_4_6</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187690">
+  <Name>sm_1_2_3_4</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187701">
+  <Name>sm_2_3_4_5_6_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187716">
+  <Name>sm_1_4_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187729">
+  <Name>sm_1_2_5_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187742">
+  <Name>sm_1_2_5_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187753">
+  <Name>sm_1_2_3_4_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187768">
+  <Name>sm_1_2_3_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187781">
+  <Name>sm_1_2_3_4_5_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187798">
+  <Name>sm_1_3_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187811">
+  <Name>sm_1_3_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187822">
+  <Name>sm_1_3_4_5_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187837">
+  <Name>sm_1_2_5_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187852">
+  <Name>sm_2_3_5_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187863">
+  <Name>sm_1_3_5_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187874">
+  <Name>sm_1_2_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="187885">
+  <Name>sm_1_2_3_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187900">
+  <Name>sm_1_3_5_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187915">
+  <Name>sm_1_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187926">
+  <Name>sm_1_2_3_4_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187941">
+  <Name>sm_1_2_3_4_5_6_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187958">
+  <Name>sm_1_5_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187971">
+  <Name>sm_1_2_3_4_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="187986">
+  <Name>sm_1_2_3_4_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="188003">
+  <Name>sm_3_4_6_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="188016">
+  <Name>sm_1_3_4_5_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="188029">
+  <Name>sm_1_2_3_4_5_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="188044">
+  <Name>sm_1_2_3_5_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="188061">
+  <Name>sm_1_2_3_5_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="-10000" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="188074">
+  <Name>sm_1_2_3_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="188087">
+  <Name>sm_1_2_3_5_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="188102">
+  <Name>sm_1_2_4_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="188117">
+  <Name>sm_1_2_5_6_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="-10000" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="188130">
+  <Name>sm_1_2_3_4_5_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="188147">
+  <Name>sm_1_3_4_5_6_7_8</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="0" />
+  <Stem6Volume value="0" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
+<Item type="StemMix" ntOffset="188164">
+  <Name>sm_1_2_3_4_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="188177">
+  <Name>sm_1_3_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="188186">
+  <Name>sm_1_3_4_7</Name>
+  <Stem1Volume value="0" />
+  <Stem2Volume value="-10000" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="0" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="-10000" />
+</Item>
+<Item type="StemMix" ntOffset="188197">
+  <Name>sm_2_3_7_8</Name>
+  <Stem1Volume value="-10000" />
+  <Stem2Volume value="0" />
+  <Stem3Volume value="0" />
+  <Stem4Volume value="-10000" />
+  <Stem5Volume value="-10000" />
+  <Stem6Volume value="-10000" />
+  <Stem7Volume value="0" />
+  <Stem8Volume value="0" />
+</Item>
