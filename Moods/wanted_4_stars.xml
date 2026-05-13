@@ -1,0 +1,49 @@
+<Item type="Mood" ntOffset="244576">
+  <Name>wanted_4_stars</Name>
+  <Unk0 value="0xAAAAAAAA" />
+  <FadeIn value="400" />
+  <FadeOut value="3000" />
+  <Unk3 value="0" />
+  <Moods>
+    <Item>
+      <StemMix>sm_2_3_5_6</StemMix>
+      <StopAction />
+      <Unk1 value="20" />
+      <Unk2 value="24" />
+      <Unk3 value="15" />
+      <Unk4 value="0" />
+      <Bar />
+      <Beat />
+    </Item>
+    <Item>
+      <StemMix>sm_2_6_7_8</StemMix>
+      <StopAction />
+      <Unk1 value="24" />
+      <Unk2 value="25" />
+      <Unk3 value="18" />
+      <Unk4 value="0" />
+      <Bar />
+      <Beat />
+    </Item>
+    <Item>
+      <StemMix>sm_4_6_8</StemMix>
+      <StopAction />
+      <Unk1 value="16" />
+      <Unk2 value="20" />
+      <Unk3 value="15" />
+      <Unk4 value="0" />
+      <Bar />
+      <Beat />
+    </Item>
+    <Item>
+      <StemMix>sm_2_5_6</StemMix>
+      <StopAction />
+      <Unk1 value="20" />
+      <Unk2 value="24" />
+      <Unk3 value="15" />
+      <Unk4 value="0" />
+      <Bar />
+      <Beat />
+    </Item>
+  </Moods>
+</Item>
