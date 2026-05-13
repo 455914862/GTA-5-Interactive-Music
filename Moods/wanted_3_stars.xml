@@ -1,0 +1,59 @@
+<Item type="Mood" ntOffset="244561">
+  <Name>wanted_3_stars</Name>
+  <Unk0 value="0xAAAAAAAA" />
+  <FadeIn value="10000" />
+  <FadeOut value="10000" />
+  <Unk3 value="0" />
+  <Moods>
+    <Item>
+      <StemMix>sm_1_2_5</StemMix>
+      <StopAction />
+      <Unk1 value="20" />
+      <Unk2 value="24" />
+      <Unk3 value="15" />
+      <Unk4 value="0" />
+      <Bar />
+      <Beat />
+    </Item>
+    <Item>
+      <StemMix>sm_1_2_5_8</StemMix>
+      <StopAction />
+      <Unk1 value="20" />
+      <Unk2 value="25" />
+      <Unk3 value="15" />
+      <Unk4 value="0" />
+      <Bar />
+      <Beat />
+    </Item>
+    <Item>
+      <StemMix>sm_2_6</StemMix>
+      <StopAction />
+      <Unk1 value="24" />
+      <Unk2 value="25" />
+      <Unk3 value="15" />
+      <Unk4 value="0" />
+      <Bar />
+      <Beat />
+    </Item>
+    <Item>
+      <StemMix>sm_2_3_6</StemMix>
+      <StopAction />
+      <Unk1 value="24" />
+      <Unk2 value="25" />
+      <Unk3 value="18" />
+      <Unk4 value="0" />
+      <Bar />
+      <Beat />
+    </Item>
+    <Item>
+      <StemMix>sm_1_2_6</StemMix>
+      <StopAction />
+      <Unk1 value="20" />
+      <Unk2 value="24" />
+      <Unk3 value="20" />
+      <Unk4 value="0" />
+      <Bar />
+      <Beat />
+    </Item>
+  </Moods>
+</Item>
