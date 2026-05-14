@@ -1,15 +1,2 @@
-# GTA-5-Interactive-Music
-https://drive.google.com/drive/folders/1y4iQtRcbE-nKTQ1g9uWUcaleya2PY99T
-Extract `rag.zip`.
-
-Move the `gta5` folder to the `D:` drive.
-
-Create the following environment variables:
-
-| Variable Name       | Variable Value         |
-| ------------------- | ---------------------- |
-| `RS_PREV_TOOLSROOT` | `D:\gta5\tools_ng`     |
-| `RS_TOOLSBIN`       | `D:\gta5\tools_ng\bin` |
-| `RS_TOOLSCONFIG`    | `D:\gta5\tools_ng\etc` |
-| `RS_TOOLSROOT`      | `D:\gta5\tools_ng`     |
-| `TOOLSBIN`          | `D:\gta5\tools_ng\bin` |
+[[# GTA-5-Interactive-Music
+https://github.com/455914862/GTAV-RAG
